@@ -1,12 +1,12 @@
-# ![Logo](https://via.placeholder.com/150) Rapport Marketing
+# ![Logo](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg) Rapport Marketing
 
 Ce projet présente une analyse approfondie des principales chaînes YouTube au Royaume-Uni, ainsi que des recommandations stratégiques pour maximiser la visibilité et le retour sur investissement via des collaborations avec ces chaînes.
 
-![Data Marketing](https://via.placeholder.com/800x200)
+![Data Marketing](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg)
 
 ## 🔍 **Découverte**
 
-![Discovery](https://via.placeholder.com/600x150)
+![Discovery](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg)
 
 ### Qu'avons-nous appris ?
 - **Chaînes avec le plus d'abonnés** : NoCopyrightSounds, Dan Rhodes, DanTDM.
@@ -17,7 +17,7 @@ Ce projet présente une analyse approfondie des principales chaînes YouTube au 
 
 ## 📈 **Recommandations**
 
-![Recommendations](https://via.placeholder.com/600x150)
+![Recommendations](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg)
 
 ### Que recommandons-nous sur la base des informations recueillies ?
 - **Dan Rhodes** : Meilleure chaîne pour maximiser la visibilité (plus d'abonnés).
@@ -27,7 +27,7 @@ Ce projet présente une analyse approfondie des principales chaînes YouTube au 
 
 ## 💸 **Retour sur investissement potentiel**
 
-![ROI](https://via.placeholder.com/600x150)
+![ROI](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg)
 
 ### Quel retour sur investissement pouvons-nous attendre ?
 - **Dan Rhodes** : Bénéfice net de 1 065 000 $ par vidéo.
@@ -37,7 +37,7 @@ Ce projet présente une analyse approfondie des principales chaînes YouTube au 
 
 ## 🚀 **Plan d'action**
 
-![Action Plan](https://via.placeholder.com/600x150)
+![Action Plan](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg)
 
 ### Quelle ligne de conduite devrions-nous adopter et pourquoi ?
 - **Canal prioritaire** : Dan Rhodes pour un partenariat à long terme.
@@ -54,11 +54,13 @@ Ce projet présente une analyse approfondie des principales chaînes YouTube au 
 ## 🛠️ **Outils Utilisés**
 
 ### Python
-![Python](https://via.placeholder.com/50)
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ### PostgreSQL
-![PostgreSQL](https://via.placeholder.com/50)
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
 
 ### Power BI
-![Power BI](https://via.placeholder.com/50)
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
 
+---
+**Note**: Les images ci-dessus sont des exemples de placeholders. Remplacez-les par des images pertinentes des logos des outils utilisés ainsi que des illustrations sur le thème du data marketing.
