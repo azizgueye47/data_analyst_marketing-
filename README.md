@@ -1,66 +1,48 @@
-# ![Logo](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg) Rapport Marketing
+# README - Rapport Marketing
 
-Ce projet présente une analyse approfondie des principales chaînes YouTube au Royaume-Uni, ainsi que des recommandations stratégiques pour maximiser la visibilité et le retour sur investissement via des collaborations avec ces chaînes.
+## Description
 
-![Data Marketing](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg)
+Ce projet analyse les principales chaînes YouTube au Royaume-Uni et propose des recommandations pour optimiser la visibilité et le retour sur investissement via des collaborations.
 
-## 🔍 **Découverte**
+## 🔍 Découverte
 
-![Discovery](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg)
+### Résultats clés
+- **Chaînes populaires** : NoCopyrightSounds, Dan Rhodes, DanTDM.
+- **Plus de vidéos** : GRM Daily, Man City, Yogscast.
+- **Plus de vues** : DanTDM, Dan Rhodes, Mister Max.
 
-### Qu'avons-nous appris ?
-- **Chaînes avec le plus d'abonnés** : NoCopyrightSounds, Dan Rhodes, DanTDM.
-- **Chaînes avec le plus de vidéos téléchargées** : GRM Daily, Man City, Yogscast.
-- **Chaînes avec le plus de vues** : DanTDM, Dan Rhodes, Mister Max.
+> Les chaînes de divertissement offrent une **large portée** grâce à leur régularité et engagement.
 
-> Les chaînes de divertissement sont essentielles pour une **portée plus large**, car elles publient régulièrement et génèrent un engagement élevé.
+## 📈 Recommandations
 
-## 📈 **Recommandations**
+### Suggestions stratégiques
+- **Dan Rhodes** : Idéal pour la visibilité (nombre élevé d'abonnés).
+- **GRM Daily, Man City, Yogscast** : ROI potentiellement faible pour la collaboration.
+- **Mister Max** : Excellente portée, mais DanTDM et Dan Rhodes sont des choix plus durables.
+- **Top 3** : NoCopyrightSounds, DanTDM, Dan Rhodes.
 
-![Recommendations](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg)
+## 💸 Retour sur investissement potentiel
 
-### Que recommandons-nous sur la base des informations recueillies ?
-- **Dan Rhodes** : Meilleure chaîne pour maximiser la visibilité (plus d'abonnés).
-- **GRM Daily, Man City, Yogscast** : Collaboration moins intéressante en raison du ROI potentiel inférieur.
-- **Mister Max** : Meilleur YouTuber pour maximiser la portée, mais DanTDM et Dan Rhodes offrent des options à long terme plus solides.
-- **Top 3 chaînes** : NoCopyrightSounds, DanTDM, Dan Rhodes.
-
-## 💸 **Retour sur investissement potentiel**
-
-![ROI](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg)
-
-### Quel retour sur investissement pouvons-nous attendre ?
-- **Dan Rhodes** : Bénéfice net de 1 065 000 $ par vidéo.
-- **Mister Max** : Bénéfice net de 1 276 000 $ par contrat de marketing d'influence.
-- **DanTDM** : 484 000 $ par vidéo de placement de produit ou 404 000 $ par campagne de marketing d'influence.
+### Estimations
+- **Dan Rhodes** : 1 065 000 $ par vidéo.
+- **Mister Max** : 1 276 000 $ par contrat.
+- **DanTDM** : 484 000 $ par vidéo ou 404 000 $ par campagne.
 - **NoCopyrightSounds** : 642 000 $ par vidéo.
 
-## 🚀 **Plan d'action**
+## 🚀 Plan d'action
 
-![Action Plan](https://channelmix.com/wp-content/uploads/2020/09/Marketing-Analyst.jpg)
+### Stratégie à suivre
+- **Canal prioritaire** : Dan Rhodes pour un partenariat durable.
+- **Étapes** :
+  1. **Contact** : Contacter les équipes, débuter avec Dan Rhodes.
+  2. **Négociation** : Établir des contrats selon le budget.
+  3. **Lancement** : Déployer les campagnes et suivre les KPI.
+  4. **Optimisation** : Analyser et ajuster en fonction des retours.
 
-### Quelle ligne de conduite devrions-nous adopter et pourquoi ?
-- **Canal prioritaire** : Dan Rhodes pour un partenariat à long terme.
-- **Étapes suivantes** :
-  - Discuter avec le client marketing.
-  - Avancer vers des partenariats avec DanTDM, Mister Max, et NoCopyrightSounds.
+## 🛠️ Outils Utilisés
 
-### Quelles mesures prenons-nous pour mettre en œuvre efficacement les décisions recommandées ?
-1. **Contact** : Contacter les équipes derrière chaque canal, en commençant par Dan Rhodes.
-2. **Négociation** : Négocier les contrats dans le cadre des budgets alloués.
-3. **Lancement** : Lancer les campagnes et suivre leurs performances par rapport aux KPI.
-4. **Optimisation** : Examiner, recueillir des informations, et optimiser en fonction des retours des clients et des audiences.
+- **Python**
+- **PostgreSQL**
+- **Power BI**
 
-## 🛠️ **Outils Utilisés**
 
-### Python
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-
-### PostgreSQL
-![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
-
-### Power BI
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
-
----
-**Note**: Les images ci-dessus sont des exemples de placeholders. Remplacez-les par des images pertinentes des logos des outils utilisés ainsi que des illustrations sur le thème du data marketing.
